@@ -1,4 +1,4 @@
-<img src="http://rodolphe-vaillant.fr/images/2015-06/bar_lbs.png" alt="LBS"> <img src="http://rodolphe-vaillant.fr/images/2015-06/bar_dqs.png" alt="DQS">
+<div align="center"><img src="http://rodolphe-vaillant.fr/images/2015-06/bar_lbs.png" alt="LBS" width="40%"><img src="http://rodolphe-vaillant.fr/images/2015-06/bar_dqs.png" alt="DQS" width="40%"></div>
 
 # Dual-Quaternion-Skinning-Sample-Codes
 Dual Quaternion and Dual Quaternion Skinning tutorial
